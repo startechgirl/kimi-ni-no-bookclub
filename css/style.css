@@ -138,7 +138,7 @@ h2 {
     padding-top: 8px;
     padding-bottom: 5px;
     font-family: "Poppins", sans-serif;
-    font-size: 11px;
+    font-size: .5em;
 }
 
 .remember-forgot label input {
@@ -148,6 +148,7 @@ h2 {
 .remember-forgot a {
     color:#FAF3EC;
     text-decoration: none;
+    font-size: .5em;
 }
 
 .remember-forgot a:hover {
