@@ -58,7 +58,6 @@
   font-style: normal;
 }
 
-
 section {
     display: flex;
     justify-content: center;
@@ -132,7 +131,7 @@ h2 {
 
 .remember-forgot {
     margin: -15px 0 15px;
-    font-size: 13px;
+    font-size: 10px;
     color: #FAF3EC;
     display: flex;
     justify-content: space-between;
