@@ -32,7 +32,7 @@ The idea was born out of my studies on __containers__ and __Docker__ for deployi
   <img src="https://img.shields.io/badge/Figma-43564A?style=for-the-badge&logo=figma&logoColor=white"/>
 <br>
 
-  ## ✿ Project Status:
+## ✿ Project Status:
 __Last Commit:__ 2026-07-29 ~ __What Was Done?__ The login page was made and update to GitHub Pages!
 
 <br>
