@@ -79,7 +79,7 @@ h2 {
 .login-box {
     position: relative;
     width: 400px;
-    height: 400px;
+    height: 45git0px;
     background-color: #C06C84;
     border-radius: 20px;
     display: flex;
@@ -136,6 +136,8 @@ h2 {
     color: #FAF3EC;
     display: flex;
     justify-content: space-between;
+    padding-top: 8px;
+    padding-bottom: 5px;
 }
 
 .remember-forgot label input {
