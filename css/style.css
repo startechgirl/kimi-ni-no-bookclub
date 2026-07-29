@@ -131,13 +131,14 @@ h2 {
 
 .remember-forgot {
     margin: -15px 0 15px;
-    font-size: 10px;
+    font-size: .7em;
     color: #FAF3EC;
     display: flex;
     justify-content: space-between;
-    padding-top: 8px;
+    padding-top: 5px;
     padding-bottom: 5px;
     font-family: "Poppins", sans-serif;
+    font-weight: 400;
 }
 
 .remember-forgot label input {
