@@ -24,7 +24,7 @@ The idea was born out of my studies on __containers__ and __Docker__ for deployi
 
 *Kimi Ni No Bookclub* combines my key tech interests — __design__, __Front-end development__ and __cloud computing__ — with my unconditional love for __books__. I hope you enjoy using this project as much as I love coding it! <3
 
-## ➴ Made With:
+#➴ Made With:
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-C06C84?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-A3B18A?style=for-the-badge&logo=css&logoColor=white"/>
@@ -32,7 +32,7 @@ The idea was born out of my studies on __containers__ and __Docker__ for deployi
   <img src="https://img.shields.io/badge/Figma-43564A?style=for-the-badge&logo=figma&logoColor=white"/>
 <br>
 
-## ✿ Project Status:
+#✿ Project Status:
 __Last Commit:__ 2026-07-29 ~ __What Was Done?__ The login page was made and update to GitHub Pages!
 
 <br>
