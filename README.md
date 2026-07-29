@@ -1,5 +1,6 @@
 # Kimi Ni No Bookclub! 🌸📒
----
+
+<br>
 
 <div align="center">
 <img src="css/img/kimi-logo.png" alt="kimi-ni-no-bookclub-logo">   
@@ -21,7 +22,7 @@ O *Kimi Ni No Bookclub* une meus principais interesses no campo da tecnologia - 
 
 The idea was born out of my studies on __containers__ and __Docker__ for deploying applications on __Amazon Lightsail__. *Kimi Ni No Bookclub* uses __HTML5__, __CSS3__, and __JavaScript__ for the __Front-end__, with designs created on __Figma__. The initial design features a login page, a sign-up page, and four dynamic pages within the main section: one for __Current Reads__, where users can search for new titles and update their reading progress; a __Read Books__ page, featuring a five-star rating system; a __Bookmarks__ page, to save ur favorite quotes; and, last but not least, a __My Account__ page, which allows users to edit their email, username, password, and avatar, as well as log out.
 
-*Kimi Ni No Bookclub* combines my key tech interests —__design__, __Front-end development__ and __cloud computing__— with my unconditional love for __books__. I hope you enjoy using this project as much as I love coding it! <3
+*Kimi Ni No Bookclub* combines my key tech interests — __design__, __Front-end development__ and __cloud computing__ — with my unconditional love for __books__. I hope you enjoy using this project as much as I love coding it! <3
 
 ## ➴ Made With:
 <div align="center">
