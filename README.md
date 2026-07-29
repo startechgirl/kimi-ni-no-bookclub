@@ -1,8 +1,12 @@
 # Kimi Ni No Bookclub! 🌸📒
 
-## 
+## 🇧🇷
 
-##
+lorem ipsun.
+
+## 🇺🇸
+
+lorem ipsun.
 
 ## ➴ Made With:
 <div align="center">
