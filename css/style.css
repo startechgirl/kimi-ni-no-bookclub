@@ -138,6 +138,8 @@ h2 {
     justify-content: space-between;
     padding-top: 8px;
     padding-bottom: 5px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
 }
 
 .remember-forgot label input {
